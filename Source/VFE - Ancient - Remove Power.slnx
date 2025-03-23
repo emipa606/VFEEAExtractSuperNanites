@@ -1,0 +1,6 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="VFE - Ancient - Remove Power/VFE - Ancient - Remove Power.csproj" />
+</Solution>

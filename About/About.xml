@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>VFEEA - Extract Super-Nanites (Continued)</name>
+  <packageId>Mlie.VFEEAExtractSuperNanites</packageId>
+  <author>SFLegion</author>
+  <url>https://github.com/emipa606/VFEEAExtractSuperNanites</url>
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VFEA</packageId>
+      <displayName>Vanilla Factions Expanded - Ancients</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2654846754</steamWorkshopUrl>
+      <downloadUrl>https://github.com/Vanilla-Expanded/VanillaFactionsExpanded-Ancients</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.VFEA</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of SFLegions mod https://steamcommunity.com/sharedfiles/filedetails/?id=2812995516
+with permission from Oscar Potocki to republish.
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/VFEEAExtractSuperNanites][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[h1]Introduction[/h1]
+You want to create overpowered pawn with cool superpower from VFE – Ancient?
+Don’t want to gamble the life of your favorite colonist?
+Have some juicy leftover prisoners?
+Don’t go any further my friend this mod is for you!
+
+[h1]Description[/h1]
+This mod adds two operations to the Gene-Tailoring Pod:
+[list]
+[*]Extract power from pawn
+[*]Inject power to pawn
+[/list]
+One building required for the power injection:
+[list]
+[*]Empowered super-nanites injector
+[/list]
+
+[h1]Extract Power[/h1]
+To have this operation available you must have a [b]Nanotech Retractor[/b] from VFE – Ancient linked to your Gene-Tailoring Pod.
+Place one of your pawns into the pod and wait for the operation to finish
+The chances of success are the same as the “Remove Weakness” operation
+If the operation is going well your pawn will survive and an [b]Empowered Super-Nanites[/b] will spawn near the pod
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[img]https://i.imgur.com/53U9QHt.png[/img]
+Be careful [b]Empowered Super-Nanites[/b] need to be contains the same way regular Super-nanites does!
+
+[h1]Inject Power[/h1]
+To have this operation available you must have an [b]Empowered super-nanites injector[/b] with an inserted [b]Empowered Super-Nanites[/b] linked to your Gene-Tailoring Pod
+This new building can be found in 3 for the 10 Sealed Vault from VFE - Ancient
+
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[img]https://i.imgur.com/duGhzm4.png[/img]
+
+A special gizmo is present on the injector, you can click on it and a list of every [b]Empowered super-nanites[/b] on the map, select the one you want to inject and your colonist will haul them to the building
+
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[img]https://i.ibb.co/1MmXrR4/Gizmo.png[/img]
+
+When an [b]Empowered Super-Nanites[/b] is inserted, you can launch the operation
+This operation has +40% fail chance which are mitigated by middle failure system (see below)
+Upon success and failure, [b]the Empowered Super-Nanites[/b] will be purged into a regular Super-Nanites and ejected from the building
+
+[h1]Operation outcome[/h1]
+There are three types of outcomes for both operation:
+[list]
+[*][b]Success[/b]: You pawn survive and the power is injected/extracted
+[*][b]Middle failure[/b]: You pawn suffer fail effect from VFE – Ancient but you still manage to extract/inject (with one exception that I let you discover in-game!)
+[*][b]Critical failure[/b]: Same as VFE – Ancient failures with no inject/extract
+[/list]
+
+The middle failure vs critical failure chances are defined as follow: 
+If the normal outcome of the operation would be a failure a second dice is rolled based on your fail chance, if you pass it, you will have a middle failure else a critical failure
+
+With this method, [u]the most complicated operation will result in more critical outcomes[/u]!
+
+
+[h1]FAQ[/h1]
+Q: Is this OP?
+A: Yes, but you have to invest a lot of time and resources to get the right SN
+
+Q: Can I use prisoner to incubate superpower thus creating a whole new level for war crime?
+A: Absolutely!
+
+Q: How can I obtain the “Empowered super-nanites injector”?
+A: You can find it in the Alpha, Bravo and Epsilon sealed vault from VFE – Ancient, if you don’t want to search around the world use the “Try place direct thing…” action in Dev mod and search for “Empowered super-nanites injector”
+
+Q: Is this safe to add mid-game?
+A: I test it on a 144 hours playthrough and didn’t notice anything 
+
+Q: Is this safe to remove mid-game?
+A: Should be, as long has you don’t do that while an operation is ongoing
+
+Q: Any bug ?
+A: If you press "ESC" while on a selection windows the operation will start but nothing will be produced, please don't do that
+
+Q: How can I report a bug?
+A: Take a look at the debug log on Dev mod and report any message with the "[VFEEA - Extract Power]" tag on the comment section (You may also include a HugLib report (CTRL + F12))
+
+[h1]Legal stuff[/h1]
+Original assets were created by Oskar Potocki, I'm only responsible for the recoloring 
+This is an [u]unofficial[/u] mod for VFE – Ancient made with the Vanilla Expended Team permission
+[url=https://creativecommons.org/licenses/by-nc-nd/4.0/](CC BY-NC-ND 4.0) [/url]
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+</ModMetaData>
