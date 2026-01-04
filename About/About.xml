@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>VFEEA - Extract Super-Nanites (Continued)</name>
+  <name>[Abandoned] VFEEA - Extract Super-Nanites (Continued)</name>
   <packageId>Mlie.VFEEAExtractSuperNanites</packageId>
   <author>SFLegion</author>
   <url>https://github.com/emipa606/VFEEAExtractSuperNanites</url>
@@ -20,22 +20,22 @@
   <loadAfter>
     <li>VanillaExpanded.VFEA</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of SFLegions mod https://steamcommunity.com/sharedfiles/filedetails/?id=2812995516
 with permission from Oscar Potocki to republish.
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://img.litet.net/logos/Abandoned.png[/img]
 
 [table]
-    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/VFEEAExtractSuperNanites][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/VFEEAExtractSuperNanites][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
-        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 [h1]Introduction[/h1]
 You want to create overpowered pawn with cool superpower from VFE – Ancient?
 Don’t want to gamble the life of your favorite colonist?
@@ -58,14 +58,14 @@ To have this operation available you must have a [b]Nanotech Retractor[/b] from 
 Place one of your pawns into the pod and wait for the operation to finish
 The chances of success are the same as the “Remove Weakness” operation
 If the operation is going well your pawn will survive and an [b]Empowered Super-Nanites[/b] will spawn near the pod
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[img]https://i.imgur.com/53U9QHt.png[/img]
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[img]https://img.litet.net/53U9QHt.png[/img]
 Be careful [b]Empowered Super-Nanites[/b] need to be contains the same way regular Super-nanites does!
 
 [h1]Inject Power[/h1]
 To have this operation available you must have an [b]Empowered super-nanites injector[/b] with an inserted [b]Empowered Super-Nanites[/b] linked to your Gene-Tailoring Pod
 This new building can be found in 3 for the 10 Sealed Vault from VFE - Ancient
 
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[img]https://i.imgur.com/duGhzm4.png[/img]
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[img]https://img.litet.net/duGhzm4.png[/img]
 
 A special gizmo is present on the injector, you can click on it and a list of every [b]Empowered super-nanites[/b] on the map, select the one you want to inject and your colonist will haul them to the building
 
@@ -116,15 +116,17 @@ Original assets were created by Oskar Potocki, I'm only responsible for the reco
 This is an [u]unofficial[/u] mod for VFE – Ancient made with the Vanilla Expended Team permission
 [url=https://creativecommons.org/licenses/by-nc-nd/4.0/](CC BY-NC-ND 4.0) [/url]
 
-[img]https://i.imgur.com/PwoNOj4.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3450725002][img]https://img.shields.io/github/v/release/emipa606/VFEEAExtractSuperNanites?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  superpowers,  gene-tailoring</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>

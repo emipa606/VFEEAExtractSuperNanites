@@ -2,11 +2,17 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "1",
-  "LastXmlCleaning": "2025-03-23T19:46:51.3866398+01:00",
+  "LastXmlCleaning": "2026-01-04T22:26:16.7638438+01:00",
   "SocialImageSet": true,
   "SearchTags": [
     " superpowers",
     " gene-tailoring"
   ],
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.5",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 49447,
+  "LinesOfXML": 28824,
+  "CodeBaseSize": 77
 }
